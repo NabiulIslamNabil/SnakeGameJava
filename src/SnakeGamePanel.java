@@ -189,7 +189,7 @@ public class SnakeGamePanel extends JPanel implements ActionListener {
                     }
                     break;
             }
-            System.out.println("Direction: " + direction);  // Debugging line
+            System.out.println("Direction: " + direction);
         }
     }
 }
